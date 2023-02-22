@@ -3,7 +3,6 @@
 # Author: Sam Allan
 # Date of latest revision:2/18/2023
 # Purpose: Print the login history of all users
-echo 
 
 function BridgeTroll {
     echo "halt, ye must solve my riddle to proceed. What has four legs in the morning, four in the afternoon, and four in the evening?"
