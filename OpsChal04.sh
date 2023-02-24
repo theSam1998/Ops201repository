@@ -21,4 +21,6 @@ touch ${FolderMaker[3]}/$varioble
 touch ${FolderMaker[0]}/$varioble
 #End
 
+#research that lead me to the more efficient code:
+#https://stackoverflow.com/questions/17949316/how-to-create-a-file-in-multiple-directories-in-linux
 
