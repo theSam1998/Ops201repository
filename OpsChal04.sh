@@ -14,8 +14,11 @@ varioble="file.txt"
 #Main
 mkdir ${FolderMaker[*]}
 # finds all the folders, runs touch command in all directories, creates "file.txt" from $varioble in each directory.
-find . -type d -exec touch {}/$varioble \;
-
+#find . -type d -exec touch {}/$varioble \;
+touch ${FolderMaker[1]}/$varioble
+touch ${FolderMaker[2]}/$varioble
+touch ${FolderMaker[3]}/$varioble
+touch ${FolderMaker[0]}/$varioble
 #End
 
 
