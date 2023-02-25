@@ -14,6 +14,7 @@ varioble="file.txt"
 #Main
 mkdir ${FolderMaker[*]}
 # finds all the folders, runs touch command in all directories, creates "file.txt" from $varioble in each directory.
+#NOTE: the following commented code does not exclusively add file.txt to the newly created directory, it adds it to ALL directories in the directory you run the program in
 #find . -type d -exec touch {}/$varioble \;
 touch ${FolderMaker[1]}/$varioble
 touch ${FolderMaker[2]}/$varioble
