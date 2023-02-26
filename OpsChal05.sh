@@ -29,3 +29,5 @@ else
 fi
 echo "ok boys, lets pack it out. Our work here is done."
 #END
+#new learning resources: https://stackoverflow.com/questions/3231804/in-bash-how-to-add-are-you-sure-y-n-to-any-command-or-alias
+# https://stackoverflow.com/questions/3043978/how-to-check-if-a-process-id-pid-exists
