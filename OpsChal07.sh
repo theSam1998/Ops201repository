@@ -5,7 +5,7 @@
 #Main
 
 echo "pc name"
-lshw | grep -A1 "overlord"
+lshw | grep -B1 "description: Computer"
 echo ""
 echo "cpu info" 
 lshw | grep -A5 "Intel(R)"
