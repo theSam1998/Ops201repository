@@ -13,7 +13,7 @@ This repository contains the work of my Ops challenges for the Codefellows Ops 2
 
 ## Favorite Ops Challenge Assignment
 
-- I really enjoyed Ops Challenge 6. While it wouldn't really be useful, as it simply performed the process of using the `touch` or `mkdir` command, but in a much more complicated way. Despite this, it was a fun puzzle to figure out, and required quite a bit of code relative to the other assignments, which really helped me to cement Bash syntax into my head. This one felt like a culmination of my practice in Bash, and was the first time I felt like I was beginning to understand how to make actually useful scripts based on this format.
+- I really enjoyed Ops Challenge 6. It wouldn't really be useful, as it simply performed the process of using the `touch` or `mkdir` command, but in a much more complicated way. Despite this, it was a fun puzzle to figure out, and required quite a bit of code relative to the other assignments, which really helped me to cement Bash syntax into my head. This one felt like a culmination of my practice in Bash, and was the first time I felt like I was beginning to understand how to make actually useful scripts based on this format.
 
 ## Applying shell scripting to the workplace
 
